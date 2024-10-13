@@ -2,7 +2,11 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'sue-ellen': ['Sue Ellen Francisco', 'sans-serif'], // Add your font here
+      }
+    },
   },
   plugins: [],
 }
