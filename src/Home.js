@@ -1,3 +1,6 @@
+import Homestart from "./components/Homestart";
+import Chefs from "./components/Chefs";
+import Card from "./components/Card"
 function Home(){
     return(
         <>
@@ -14,7 +17,8 @@ function Home(){
         </div>
 
 
-
+<Homestart/>
+<Chefs/>
         
 
 <footer class="bg-black dark:bg-gray-900">
