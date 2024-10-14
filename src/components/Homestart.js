@@ -9,7 +9,7 @@ function Homestart(){
  text-sm px-5 py-2.5  mb-2 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-900">Book a Table</button>
             </div>
             <div class="Div-1" className="">
-                <div className="shadow-2xl h-72 w-72 my-0 mx-auto bg-[url('https://anchoviesandeclairs.wordpress.com/wp-content/uploads/2020/04/pins_food-6.jpg')] bg-cover rounded-full"></div>
+                <div className="hover:animate-shake shadow-2xl h-72 w-72 my-0 mx-auto bg-[url('https://anchoviesandeclairs.wordpress.com/wp-content/uploads/2020/04/pins_food-6.jpg')] bg-cover rounded-full"></div>
             </div>
         </div>
         
