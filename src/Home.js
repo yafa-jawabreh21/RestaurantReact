@@ -1,6 +1,7 @@
 import Homestart from "./components/Homestart";
 import Chefs from "./components/Chefs";
 import Gallery from "./components/Gallery";
+import Contact from "./components/Contact";
 function Home(){
     return(
         <>
@@ -20,6 +21,7 @@ function Home(){
 <Homestart/>
 <Chefs/>
 <Gallery/>
+<Contact/>
         
 
 <footer class="bg-black dark:bg-gray-900">
