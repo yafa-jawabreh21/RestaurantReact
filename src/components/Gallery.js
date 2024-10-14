@@ -1,7 +1,7 @@
 function Gallery(){
     return(
         <>
-<div className="bg-slate-200 h-full mx-auto my-0 py-10">
+<div className="bg-slate-200 h-full mx-auto my-0 py-10" id="section3">
     <h5 className="text-center text-gray-400 text-sm">GALLERY</h5>
     <h1 className="font-medium font-sue-ellen text-red-500 text-3xl text-center">
         <span className="text-black">CHECK</span> OUR GALLERY

@@ -3,6 +3,7 @@ function Chefs(){
 
     return(
         <>
+        <div id="section2">
         <h5 className="text-center text-gray-400 text-sm ">CHEFS</h5>
         <h1 className=" font-medium font-sue-ellen text-red-500 text-3xl text-center"><span className="text-black">OUR</span> PROFFESIONAL CHEFS</h1>
         <div className="container flex my-0 mx-auto gap-4 mt-6 ">
@@ -11,6 +12,7 @@ function Chefs(){
             <Card name="Tam Anderson" job="Cook" image="https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2023/03/08/1cbb7c48f0a9430db656a65281099056_M2770_%281%29.jpg"  />
             
             
+        </div>
         </div>
         
         </>
