@@ -12,7 +12,7 @@ function Home(){
                     <a href="" className="hover:underline hover:scale-x-100"><li className="text-gray-500 font-mono font-bold text-lg">Home</li></a>
                     <a href="/Chefs/#section2" className="hover:underline hover:scale-x-100"><li className="text-gray-500 font-mono font-bold text-lg">Chefs</li></a>
                     <a href="/Gallery/#section3" className="hover:underline hover:scale-x-100"><li className="text-gray-500 font-mono font-bold text-lg">Gallery</li></a>
-                    <a href="" className="hover:underline hover:scale-x-100"><li className="text-gray-500 font-mono font-bold text-lg">Contact</li></a>
+                    <a href="/Contact/#section4" className="hover:underline hover:scale-x-100"><li className="text-gray-500 font-mono font-bold text-lg">Contact</li></a>
                 </ul>
             </nav>
         </div>

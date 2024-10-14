@@ -1,7 +1,7 @@
 function Contact(){
     return(
         <>
-        <div class="contact">
+        <div class="contact" id="section4">
         <h5 className="text-center text-gray-400 text-sm ">CONTACT</h5>
         <h1 className=" font-medium font-sue-ellen text-red-500 text-3xl text-center"><span className="text-black">HELP?</span> CONTACT US</h1>
         <div className="mx-14 my-0 bg-yellow-50 w-auto h-96 mb-10 mt-7 rounded-sm"></div>
