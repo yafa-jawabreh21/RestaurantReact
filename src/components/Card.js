@@ -1,8 +1,8 @@
 function Card( props ){
     return(
         <>
-        <div class="Card shadow-xl shadow-slate-300 mx-auto my-0 mb-10  rounded-2xl flex flex-col w-2/4 h-1/4">
-        <img className="max-h-96 rounded-lg w-auto" src={props.image}  height={100} width={100}/>
+        <div class="Card shadow-xl shadow-slate-300 sm:mx-32 md:mx-0 sm:my-0 sm:mb-10  rounded-2xl flex flex-col md:w-1/4 md:h-1/4">
+        <img className="object-cover max-h-96 rounded-lg w-auto" src={props.image}  height={100} width={100}/>
             <div class="card-info rounded-lg bg-white block mt-auto h-fit pt-6">
                 <h1 class="Chef-name text-black font-bold text-lg text-center">{props.name}</h1>
                 <h3 class="Chef-job text-gray-400 font-normal text-sm text-center">{props.job}</h3>
