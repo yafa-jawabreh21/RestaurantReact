@@ -6,14 +6,14 @@ function Home(){
     return(
         <>
         <div className="shadow-md h-full pb-5 w-auto">
-            <nav className="flex gap-40 pt-5 pl-3 sm:gap-6 ">
-                <a href="/"><h1 className="Logo text-black text-2xl font-mono font-bold pl-36 sm:text-left sm:text-4xl">Mealify</h1></a>
-                <ul className="sm:hidden flex gap-6 items-center my-0 mx-72 sm:flex-row sm:space-x-8 rtl:space-x-reverse sm:mt-0 sm:border-0">
+            <nav className="lg:flex gap-40 pt-5 pl-3 sm:gap-6 ">
+                <a href="/"><h1 className="Logo text-black text-2xl font-mono font-bold lg:pl-8  sm:text-4xl sm:text-center  ">Mealify</h1></a>
+                {/* <ul className="sm:hidden flex gap-6 items-center my-0 mx-72 sm:flex-row sm:space-x-8 rtl:space-x-reverse sm:mt-0 sm:border-0">
                     <li className="text-gray-500 font-mono font-bold text-lg"><a href="" className="hover:underline hover:scale-x-100">Home</a></li>
                     <li className="text-gray-500 font-mono font-bold text-lg"><a href="/Chefs/#section2" className="hover:underline hover:scale-x-100">Chefs</a></li>
                     <li className="text-gray-500 font-mono font-bold text-lg"><a href="/Gallery/#section3" className="hover:underline hover:scale-x-100">Gallery </a></li>
                     <li className="text-gray-500 font-mono font-bold text-lg"><a href="/Contact/#section4" className="hover:underline hover:scale-x-100">Contact </a></li>
-                </ul>
+                </ul> */}
             </nav>
         </div>
 
