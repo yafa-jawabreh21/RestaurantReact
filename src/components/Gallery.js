@@ -7,7 +7,7 @@ function Gallery(){
         <span className="text-black">CHECK</span> OUR GALLERY
     </h1>
 
-    <div className=" grid grid-cols-2 md:grid-cols-3 gap-0 mx-auto py-0" style={{ maxWidth: '800px' }}>
+    <div className=" flex gap-3 md:grid-cols-3  mx-auto py-0" style={{ maxWidth: '800px' }}>
         <div className="grid gap-4">
             <div className="relative group">
                 <img className="h-auto w-64 rounded-lg transition-transform duration-75 group-hover:scale-105 hover:opacity-50" src="https://images.pexels.com/photos/604969/pexels-photo-604969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt=""/>
