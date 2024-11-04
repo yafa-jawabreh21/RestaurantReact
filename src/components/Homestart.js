@@ -1,7 +1,7 @@
 function Homestart(){
     return(
         <>
-        <div className=" grid grid-cols-2 gap-1 max-h-full pt-32 pb-44 sm:my-0 sm:mx-48 md:mx-0">
+        <div className=" grid grid-cols-2 gap-1 max-h-full pt-32 pb-44 sm:my-0 sm:mx-24 md:mx-0">
             <div  class= "Div-1" className="block md:ml-32">
                 <h1 class="" className="text-4xl font-sue-ellen font-medium text-gray-700  text-left">ENJOY YOUR HEALTHY <br></br>DELICIOUS FOOD</h1>
                 <p className="text-gray-500 font-normal  pt-5 text-wrap w-2/3 text-left">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magni numquam deserunt alias dignissimos qui.</p>
