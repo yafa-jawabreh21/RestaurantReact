@@ -16,14 +16,10 @@ function Home(){
                 </ul> */}
             </nav>
         </div>
-
-
 <Homestart/>
 <Chefs/>
 <Gallery/>
 <Contact/>
-        
-
 <footer class="bg-black dark:bg-gray-900 ">
     <div class="mx-auto w-full max-w-screen-xl p-4 py-6 md:py-8">
         <div class="md:block md:justify-between sm:flex">
