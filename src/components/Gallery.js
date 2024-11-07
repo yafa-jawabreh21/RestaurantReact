@@ -6,7 +6,6 @@ function Gallery(){
     <h1 className="font-medium font-sue-ellen text-red-500 text-3xl text-center">
         <span className="text-black">CHECK</span> OUR GALLERY
     </h1>
-
     <div className=" flex gap-3 md:grid-cols-3  mx-auto py-0" style={{ maxWidth: '800px' }}>
         <div className="grid gap-4">
             <div className="relative group">
